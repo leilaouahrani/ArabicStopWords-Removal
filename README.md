@@ -21,4 +21,5 @@ json: files management and saving results
 
 If your input is a".txt" file, you need to read it with the "fromTxt(Path)" function included in the "Arabic_Stopwords.py" file and then start working with one of the two methods, for exemple: Stopwords(fromTxt("C:/....../ArabicText.txt"))
 If not, directly launch the function you need with your string.
-For further questions or inquiries about this code, you can contact:
+For further questions or inquiries about this code, you can contact: l_ouahrani@univ-blida.dz
+
